@@ -13,7 +13,7 @@ git clone {ссылка на репозиторий}
 
 ## Backend работа
 
-```json
+```
 virtualenv env
 pip install -r requirements.txt
 python manage.py runserver
@@ -21,14 +21,14 @@ python manage.py runserver
 
 ## Frontend работа
 
-```json
+```
 npm i
 npm start
 ```
 
 ## Сборка финальная
 
-```json
+```
 npm run build
 ```
 
